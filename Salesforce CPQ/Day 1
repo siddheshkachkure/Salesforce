@@ -1,1 +1,33 @@
-.
+# Product Configuration
+
+  Basic
+    Salesforce.com Cloud
+        We use to install -> Salesforce CPQ, Salesforce Billing, Copado, Zuora Connector. 
+
+
+
+
+
+Notes:
+  1. Salesforce CPQ Package Installation
+  2. Customer Account Setup
+  3. Customer Ship to Bill To Setup
+  4. Opportinuty Creation
+  5. Product Bundle Setup
+  6. Product Option Setup 
+  7. Product Feature Setup
+  8. Quote Creation Based on Custom Business need
+  9. Quote Validations
+  10. Pre PO Approvals Design and Implementaion
+  11. Pricing Management
+  12. Dynamic Bundles
+  13. Product Rules Based on your custom need
+  14. Discount Management
+  15. Post PO Approvals Design and Implementation
+  16. Order Creation Automation
+  17. Order Splitting
+  18. Order Activation Automation
+  19. CPQ Contract Creation
+  20. CPQ Amendment Business
+  21. CPQ Renewal Business and Automation
+  22. Quote Templates
